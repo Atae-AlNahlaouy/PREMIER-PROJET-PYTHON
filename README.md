@@ -13,8 +13,8 @@ Ce projet est une implémentation simple de la régression linéaire pour prédi
 ## Installation
 1.  Clonez ce dépôt :
     ```bash
-    git clone [https://github.com/votre_nom_utilisateur/Premier-Projet-Python.git](https://github.com/votre_nom_utilisateur/Premier-Projet-Python.git)
-    cd mon_projet_ia_w3schools
+    git clone [https://github.com/Atae-AlNahlaouy/PREMIER-PROJET-PYTHON.git](https://github.com/Atae-AlNahlaouy/PREMIER-PROJET-PYTHON.git)
+    cd PREMIER-PROJET-PYTHON
     ```
 2.  Créez et activez un environnement virtuel :
     ```bash
